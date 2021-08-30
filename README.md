@@ -11,3 +11,5 @@ ex) master/TaeGwang_kim
 ex) master/TaeGwang_kim <- merge <- maxster/Taegwang_kim/10000
 
 되도록이면 assignee를 저를 해주시고 하시면 제가 보기 편합니다.
+
+answer 초기 init
